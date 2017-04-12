@@ -9,4 +9,5 @@
    * Detail-Revealing Deep Video Super-resolution (Arxiv2017), Xin Tao et al. 
  * Motion Blur [[PDF]](http://www.cse.cuhk.edu.hk/~leojia/projects/mfsr/papers/mfsr_final.pdf)[[Webiste]](http://www.cse.cuhk.edu.hk/~leojia/projects/mfsr/index.html)[[Code]](http://www.cse.cuhk.edu.hk/~leojia/projects/mfsr/data/mfsr_pcode_v0.2.zip)
    * Handling Motion Blur in Multi-Frame Super-Resolution (CVPR2015), Ma Ziyang et al. 
- 
+ * Draft-Ensemble [[PDF]](http://www.cse.cuhk.edu.hk/leojia/projects/DeepSR/papers/DeepSR_final.pdf)[[Webiste]](http://www.cse.cuhk.edu.hk/leojia/projects/DeepSR/index.html)[[Code]](http://www.cse.cuhk.edu.hk/leojia/projects/DeepSR/data/DeepSR_code.zip)
+   * Video Super-Resolution via Deep Draft-Ensemble Learning (ICCV2015), Renjie Liao et al.  
