@@ -14,4 +14,4 @@
  * Pure CNN [[PDF]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7444187)[[Webiste]](http://ivpl.eecs.northwestern.edu/content/research-projects/17151)[[Code]](http://ivpl.eecs.northwestern.edu/system/files/VSRnet_source.zip)
    * Video Super-Resolution with Convolutional Neural Networks (TCI2016), Armin Kappeler et al.     
  * BRCN [[PDF]](https://papers.nips.cc/paper/5778-bidirectional-recurrent-convolutional-networks-for-multi-frame-super-resolution.pdf)[[Webiste]](https://github.com/linan142857/BRCN)[[Code]](https://github.com/linan142857/BRCN)
-   * directional Recurrent Convolutional Networks for Multi-Frame Super-Resolution (NIPS2016), Armin Kappeler et al.    
+   * Bidirectional Recurrent Convolutional Networks for Multi-Frame Super-Resolution (NIPS2016), Yan Huang et al.    
