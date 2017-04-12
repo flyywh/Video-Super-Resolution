@@ -6,4 +6,7 @@
  * Infimal Convolution [[PDF]](https://arxiv.org/pdf/1611.07767.pdf)
    * Multiframe Motion Coupling via Infimal Convolution Regularization for Video Super Resolution (Arxiv2016), Hendrik Dirks et al.
  * Detail-Revealing [[PDF]](https://arxiv.org/pdf/1704.02738.pdf)
-   * Detail-Revealing Deep Video Super-resolution (Arxiv), Xin Tao et al. 
+   * Detail-Revealing Deep Video Super-resolution (Arxiv2017), Xin Tao et al. 
+ * Detail-Revealing [[PDF]](https://arxiv.org/pdf/1704.02738.pdf)
+   * Detail-Revealing Deep Video Super-resolution (Arxiv2017), Xin Tao et al. 
+ 
