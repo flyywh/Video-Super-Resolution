@@ -12,4 +12,4 @@
  * Draft-Ensemble [[PDF]](http://www.cse.cuhk.edu.hk/leojia/projects/DeepSR/papers/DeepSR_final.pdf)[[Webiste]](http://www.cse.cuhk.edu.hk/leojia/projects/DeepSR/index.html)[[Code]](http://www.cse.cuhk.edu.hk/leojia/projects/DeepSR/data/DeepSR_code.zip)
    * Video Super-Resolution via Deep Draft-Ensemble Learning (ICCV2015), Renjie Liao et al.  
  * Pure CNN [[PDF]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7444187)[[Webiste]](http://ivpl.eecs.northwestern.edu/content/research-projects/17151)[[Code]](http://ivpl.eecs.northwestern.edu/system/files/VSRnet_source.zip)
-   * Video Super-Resolution with Convolutional Neural Networks (TCI2016), Renjie Liao et al.     
+   * Video Super-Resolution with Convolutional Neural Networks (TCI2016), Armin Kappeler et al.     
