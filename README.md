@@ -20,3 +20,9 @@
  * Video Enhancer [[Webiste]](http://www.infognition.com/videoenhancer/)
  * Nuclear-norm Model [[PDF]](https://arxiv.org/pdf/1704.06196.pdf)
    * A Nuclear-norm Model for Multi-Frame Super-Resolution Reconstruction from Video Clips, Rui Zhao and Raymond H. Chan et al.
+ * Improved Robustness [[PDF]](https://arxiv.org/pdf/1706.04695.pdf)
+   * A New Adaptive Video SRR Algorithm With Improved Robustness to Innovations
+ * Scalable Video SR [[PDF]](https://arxiv.org/pdf/1707.09926.pdf)
+   * A Framework for Super-Resolution of Scalable Video via Sparse Reconstruction of Residual Frames
+ * [[PDF]]()
+   * 
