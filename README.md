@@ -21,7 +21,7 @@
  * Nuclear-norm Model [[PDF]](https://arxiv.org/pdf/1704.06196.pdf)
    * A Nuclear-norm Model for Multi-Frame Super-Resolution Reconstruction from Video Clips (Arxiv 2017), Rui Zhao and Raymond H. Chan et al.
  * Improved Robustness [[PDF]](https://arxiv.org/pdf/1706.04695.pdf)
-   * A New Adaptive Video SRR Algorithm With Improved Robustness to Innovations (Arxiv 2017), Ricardo Augusto Borsoi, Guilherme Holsbach Costa, Jose Carlos Moreira Bermudez.
+   * A New Adaptive Video SRR Algorithm With Improved Robustness to Innovations (Arxiv 2017), Ricardo Augusto Borsoi, Guilherme Holsbach Costa, Jose Carlos Moreira Bermudez.
  * Scalable Video SR [[PDF]](https://arxiv.org/pdf/1707.09926.pdf)
    * A Framework for Super-Resolution of Scalable Video via Sparse Reconstruction of Residual Frames (Arxiv 2017), Mohammad Hossein Moghaddam, Mohammad Javad Azizipour, Saeed Vahidian, Besma Smida. 
  * End-to-End Learning [[PDF]](https://arxiv.org/pdf/1707.00471.pdf)
