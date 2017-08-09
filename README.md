@@ -18,3 +18,4 @@
  * Bayesian [[PDF]](https://people.csail.mit.edu/celiu/pdfs/VideoSR.pdf)[[Webiste]](https://people.csail.mit.edu/celiu/CVPR2011/default.html)
    * A Bayesian Approach to Adaptive Video Super Resolution (CVPR2011), Ce Liu et al.   
  * Video Enhancer [[Webiste]](http://www.infognition.com/videoenhancer/)
+   * A Nuclear-norm Model for Multi-Frame Super-Resolution Reconstruction from Video Clips, Rui Zhao and Raymond H. Chan et al.
