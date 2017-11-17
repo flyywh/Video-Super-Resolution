@@ -3,7 +3,6 @@
 #### Video SR
  * Learned Temporal Dynamics [[PDF]](https://arxiv.org/pdf/1611.05250.pdf)
    * Robust Video Super-Resolution with Learned Temporal Dynamics (ICCV2017), Ding Liu et al.
-   
  * VESPCN [[PDF]](https://arxiv.org/pdf/1611.05250.pdf)
    * Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation (Arxiv2016), Jose Caballero et al.
  * Infimal Convolution [[PDF]](https://arxiv.org/pdf/1611.07767.pdf)
