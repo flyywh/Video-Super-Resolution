@@ -29,6 +29,6 @@
  * End-to-End Learning [[PDF]](https://arxiv.org/pdf/1707.00471.pdf)
    * End-to-End Learning of Video Super-Resolution with Motion Compensation (GCPR2017), Osama Makansi, Eddy Ilg, and Thomas Brox.  
  * 	Frame-Recurrent [[PDF]](https://arxiv.org/pdf/1801.04590.pdf)
-   * Frame-Recurrent Video Super-Resolution (CVPR2018), Mehdi S. M. Sajjadi, Raviteja Vemulapalli, Matthew Brown.
+    * Frame-Recurrent Video Super-Resolution (CVPR2018), Mehdi S. M. Sajjadi, Raviteja Vemulapalli, Matthew Brown.
  * 	Dynamic Upsampling Filters [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jo_Deep_Video_Super-Resolution_CVPR_2018_paper.pdf)
     * Deep Video Super-Resolution Network Using Dynamic Upsampling Filters Without Explicit Motion Compensation (CVPR2018), Younghyun Jo, Seoung Wug Oh, Jaeyeon Kang, Seon Joo Kim.     
