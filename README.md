@@ -1,5 +1,9 @@
 # Video-Super-Resolution
 
+**This list is maintained by:**
+
+**Wenhan Yang** **[[STRUCT]](http://www.icst.pku.edu.cn/struct/struct.html) PKU (PI: Prof. Jiaying Liu)**
+
 #### Video SR
  * Learned Temporal Dynamics [[PDF]](https://arxiv.org/pdf/1611.05250.pdf)
    * Robust Video Super-Resolution with Learned Temporal Dynamics (ICCV2017), Ding Liu et al.
